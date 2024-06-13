@@ -26,7 +26,7 @@ python train.py
 
 ### 2. Test Model
 
-> pretrained model weights can get for [release](/releases)
+> pretrained model weights can get for [release](releases)
 
 ```shell
 python test.py
@@ -40,7 +40,7 @@ python convert2onnx.py
 
 ### 4. Deploy ONNX Model With Gradio
 
-> onxx model can get for [release](/releases)
+> onxx model can get for [release](releases)
 ```shell
 python deploy.py
 ```
